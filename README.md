@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrianNgo9
+- 👋 Hi, I’m Bry
 
 
 <!---
